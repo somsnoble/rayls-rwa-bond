@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (CRITICAL)
+.env
+
+# Hardhat files
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+
+# General
+.DS_Store
+Thumbs.db
