@@ -19,4 +19,4 @@ Unlike standard ERC-20 tokens, the **RaylsBond ($RBOND)** enforces regulatory co
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/rayls-rwa-bond.git](https://github.com/YOUR_USERNAME/rayls-rwa-bond.git)
+   git clone [https://github.com/somsnoble/rayls-rwa-bond.git](https://github.com/somsnoble/rayls-rwa-bond.git)
